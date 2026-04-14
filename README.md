@@ -1,4 +1,4 @@
-# Olá, eu sou o Vitor de Souza Vieira 👋
+# Olá, eu sou o Vitor 👋
 
 Estudante de **Sistemas de Informação** (Unibave), em transição de carreira para **Análise de Dados**. Com background em TI, foco na construção de soluções eficientes, desde ferramentas CLI em Rust até pipelines de dados complexos com Python.
 
