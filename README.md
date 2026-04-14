@@ -11,7 +11,7 @@ Estudante de **Sistemas de Informação** (Unibave), em transição de carreira 
 | **Linguagens**       | Python (Pandas, Polars), SQL, TypeScript, Rust |
 | **Data & Analytics** | Power BI, ETL Pipelines, Jupyter Notebooks     |
 | **Frontend**         | Next.js, Tailwind CSS                          |
-| **Ferramentas**      | Git, Docker, Btrfs, Linux (Fedora/openSUSE)    |
+| **Ferramentas**      | Git, Docker, Linux                             |
 
 ### 🛠️ Projetos em Destaque
 
